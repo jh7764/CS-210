@@ -1,0 +1,18 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   In Project 4, I created a search algorithm that helps solve the 8-puzzle problem, which is part of the game Sudoku. The goal of the game is to sort all the numbers in order from left to right with row-major order. In Problem 1, I set up the board, and find possible ways to move from the blank space (neighbors). I also checked how many moves are needed to reach the goal board (Manhattan distance), how many numbers are in the right position (hamming) and if the board can be solved. In Problem 2, I solve the board by first calculating how many moves are needed to get to the goal board, and then looping the initial board for each move until the goal board is reached. Also, in some cases the board cannot be solved depending on the board size, for an odd sized board you need to make an even number of moves in order to reach the goal board, and vice versa.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   N/A               ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   Thank you. Have a nice day!

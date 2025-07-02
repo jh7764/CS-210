@@ -1,0 +1,18 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   In Project 2, I created a generalized form of a stack that can sort and randomly remove its items. It can also be resized, allowing you to continuously add items, and it can also generate random numbers given a specific range. In Problem 1, I created a doubly linked list (linked deque) in which you can modify the front and back of by adding or subtracting. In Problem 2, I implemented the program for problem 1 and used it to sort strings from standard input into alphabetical order. In problem 3, I modified my program for problem 1, by changing the code to remove a random item instead of removing it from the front or back of the deque. It will also resize the deque, allowing you to continuously add more items (doubles the size of the queue). Furthermore, in the problem 4, I used the random queue to generate random integers between a given range ([lo, hi]) and depending on the mode, it will either output randomly non-repeating integers (“-“) or randomly repeating integers ("+’).
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   N/A            ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   Thank you! Have a nice day! :)
