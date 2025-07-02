@@ -1,0 +1,19 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+During the project, I was able to apply my knowledge of java script to code multiple programs. I used new techniques like casting, throwing, and much more in combination with my python knowledge. In Problem 1, I created the data type ArrayPercolation that uses a 2D array to implement the Percolation interface. I was able to cover corner cases by throwing specific arguments/exceptions, I checked whether sites were opened or filled using booleans, and checked whether the system would percolate or not. In Problem 2, I created a similar data type to Problem 1 except the underlying data structure was a WeightedQuickUnionUF object with the specific sites like source and sink. I was also able to solve the backwash problem by creating a new instance variable that is similar to uf, and applying it where necessary. Lastly, in Problem 3, I coded PercolationStats to estimate the percolation threshold as the fraction of sites opened using the UFPercolation implementation. It also calculates the mean, standard deviation, and the low/high confidence interval for a percolation system.
+
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Gwen             SI Session Ldr     Help with casting.
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   Thank you! Have a nice day :)
